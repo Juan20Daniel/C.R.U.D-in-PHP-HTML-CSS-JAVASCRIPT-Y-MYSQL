@@ -1,0 +1,70 @@
+.cuenta {
+        position:absolute;
+	    background-color:#17202A;
+        width:330px;
+        height:500px;
+	    top:-150px;
+	    margin:170px 150px;
+}
+
+.cuenta .texto1{
+        font-size:16px;
+	padding:14px;
+        position:absolute;
+        width:290px;
+        height:30px;
+        right:20px;
+        top:120px;
+}
+
+.cuenta .texto2{
+        font-size:16px;
+	padding:14px;
+        position:absolute;
+        width:290px;
+        height:30px;
+        right:20px;
+        top:170px;
+}
+
+.cuenta .texto3{
+        font-size:16px;
+	padding:14px;
+        position:absolute;
+        width:290px;
+        height:30px;
+        right:20px;
+        top:220px;
+}
+
+.cuenta .texto4{
+        font-size:16px;
+	padding:14px;
+        position:absolute;
+        width:290px;
+        height:30px;
+        right:20px;
+        top:270px;
+}
+.cuenta .texto5{
+        font-size:16px;
+        padding:14px;
+        position:absolute;
+        width:290px;
+        height:30px;
+        right:20px;
+        top:320px;
+}
+
+     .cuenta .texto6{
+        font-size:16px;
+        padding:14px;
+        position:absolute;
+        width:290px;
+        height:50px;
+        right:20px;
+        top:370px;
+}
+
+
+
